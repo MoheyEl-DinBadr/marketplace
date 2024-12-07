@@ -1,0 +1,16 @@
+# Logs
+    logs
+    *.log
+
+    # Dependencies
+    node_modules/
+    package-lock.json
+
+    # Optional npm cache directory
+    .npm/
+
+    # Build output
+    dist/
+
+    # IDEs and editors
+    .vscode/
